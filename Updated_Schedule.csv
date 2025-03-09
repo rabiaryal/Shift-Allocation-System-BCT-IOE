@@ -1,0 +1,122 @@
+Employee ID,Employee Name,Designation,Working Hours,Day1,Day2,Day3,Day4,Day5,Day6,Day7
+1,sumesh Doe,Manager,48,"Morning, Evening","Morning, Night","Day, Night",Evening,"Morning, Evening","Day, Night",Evening
+3,Mark Lee,Supervisor,44,"Morning, Evening","Day, Night",Evening,"Day, Night",Evening,"Day, Night",Evening
+4,Anna White,Cleaning Staff,48,"Morning, Evening","Day, Night",Day,"Morning, Evening","Day, Night",Evening,"Morning, Night"
+5,Chris Green,Inventory Manager,36,"Morning, Evening","Morning, Night",Day,"Morning, Evening",Day,Morning,Leave
+6,Sarah Black,Cashier,36,"Morning, Night",Evening,Day,"Morning, Night",Night,Evening,Day
+7,Tom Brown,Cleaning Staff,48,"Morning, Evening","Day, Night",Evening,"Morning, Night","Day, Night",Evening,"Morning, Night"
+8,Emily Clark,Customer Help,40,"Morning, Evening","Day, Night",Evening,"Morning, Evening","Day, Night",Evening,Leave
+9,Daniel King,Supervisor,44,"Morning, Evening",Day,"Morning, Evening","Day, Night",Evening,"Day, Night",Evening
+10,Laura Scott,Cashier,36,"Morning, Night",Evening,Day,"Morning, Night",Night,Evening,Day
+11,Jack Hill,Supervisor,44,"Morning, Evening",Day,"Morning, Evening",Day,"Morning, Evening","Day, Night",Evening
+12,Olivia Adams,Cleaning Staff,48,"Morning, Evening","Day, Night",Evening,"Morning, Night",Day,"Morning, Evening","Day, Night"
+13,Liam Turner,Cleaning Staff,48,"Morning, Evening","Day, Night",Evening,"Morning, Night",Day,"Morning, Evening","Day, Night"
+14,Sophia Evans,Inventory Manager,36,"Morning, Evening","Day, Night",Evening,"Morning, Evening",Day,Morning,Leave
+15,Mason Hall,Inventory Manager,36,"Morning, Evening","Day, Night",Evening,"Morning, Night",Day,Morning,Leave
+16,Ella Ward,Supervisor,44,"Morning, Night",Day,"Morning, Evening",Day,"Morning, Evening",Day,"Morning, Evening"
+17,Jacob Carter,Manager,48,"Morning, Evening","Day, Night",Day,"Morning, Evening","Morning, Night","Day, Night",Evening
+18,Ava Mitchell,Cleaning Staff,48,"Morning, Night","Day, Night",Evening,"Morning, Night",Day,"Morning, Evening","Day, Night"
+19,Michael Brooks,Customer Help,40,"Morning, Evening","Day, Night",Evening,"Morning, Night","Day, Night",Evening,Leave
+20,Grace Lewis,Cleaning Staff,48,"Morning, Night",Day,"Morning, Evening","Day, Night",Day,"Morning, Evening","Day, Night"
+21,Alice Johnson,Cashier,36,"Morning, Night",Evening,Day,Morning,"Morning, Night",Evening,Day
+22,Bob Smith,Supervisor,44,"Morning, Night",Day,"Morning, Night",Day,"Morning, Evening",Day,"Morning, Evening"
+23,Charlie Davis,Inventory Manager,36,"Morning, Evening","Day, Night",Evening,"Morning, Night",Day,Morning,Leave
+24,Diana Clark,Customer Help,40,"Morning, Evening","Day, Night",Evening,"Morning, Night","Day, Night",Evening,Leave
+25,Ethan Brown,Supervisor,44,"Morning, Night",Day,"Morning, Night",Day,"Morning, Night",Day,"Morning, Evening"
+26,Fiona Adams,Cashier,36,"Morning, Night",Evening,Evening,Day,"Morning, Night",Evening,Day
+27,George Miller,Inventory Manager,36,"Morning, Evening",Day,"Morning, Evening","Morning, Night",Day,Morning,Leave
+28,Hannah White,Customer Help,40,"Morning, Night","Day, Night",Evening,"Morning, Night",Day,"Morning, Evening",Leave
+29,Isaac Wilson,Manager,48,"Morning, Evening","Day, Night",Day,"Morning, Evening","Day, Night",Day,"Morning, Evening"
+30,Julia Thomas,Cleaning Staff,48,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,"Morning, Night","Day, Night"
+31,Kevin Moore,Cashier,36,"Morning, Night",Night,Evening,Day,"Morning, Night",Evening,Day
+32,Liam Taylor,Supervisor,44,"Morning, Night",Evening,"Morning, Night",Day,"Morning, Night",Day,"Morning, Night"
+33,Mia Scott,Customer Help,40,"Morning, Night","Day, Night",Evening,"Morning, Night",Day,"Morning, Evening",Leave
+34,Nathan Harris,Inventory Manager,36,"Morning, Evening",Day,"Morning, Evening","Day, Night",Evening,Morning,Leave
+35,Olivia Martinez,Supervisor,44,"Morning, Night",Evening,"Morning, Night",Evening,"Morning, Night",Day,"Morning, Night"
+36,Peter Robinson,Manager,48,"Morning, Evening","Day, Night",Evening,"Morning, Evening","Day, Night",Day,"Morning, Evening"
+37,Quinn Lewis,Cashier,36,"Morning, Night",Night,Evening,Day,"Morning, Night",Evening,Evening
+38,Rachel Walker,Cleaning Staff,44,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,"Morning, Night",Day
+39,Samuel Allen,Customer Help,40,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,"Morning, Evening",Leave
+40,Tina Young,Supervisor,44,"Morning, Night",Evening,"Morning, Night",Evening,"Morning, Night",Evening,"Morning, Night"
+41,John Smith,Inventory Manager,36,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,Morning,Leave
+42,Alice Brown,Cashier,36,Morning,"Morning, Night",Evening,Day,"Morning, Night",Night,Evening
+43,Bob Johnson,Customer Help,40,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,"Morning, Night",Leave
+44,Carol White,Cashier,36,Day,"Morning, Night",Evening,Day,"Morning, Night",Night,Evening
+45,David Green,Cleaning Staff,44,"Day, Night",Day,"Morning, Evening","Day, Night",Evening,"Morning, Night",Day
+46,Eva Adams,Manager,48,"Morning, Evening","Day, Night",Evening,"Morning, Evening","Day, Night",Evening,"Morning, Evening"
+47,Frank Lee,Inventory Manager,36,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,Morning,Leave
+48,Grace Miller,Supervisor,44,"Day, Night",Evening,"Morning, Night",Evening,"Morning, Night",Evening,"Morning, Night"
+49,Harry Clark,Customer Help,40,"Day, Night",Evening,"Morning, Evening","Day, Night",Evening,"Morning, Night",Leave
+50,Ivy Scott,Cleaning Staff,44,"Day, Night",Evening,"Morning, Night","Day, Night",Evening,"Morning, Night",Day
+51,Jack Walker,Cashier,36,Day,"Morning, Night",Evening,Day,Morning,"Morning, Night",Evening
+52,Kathy Hall,Manager,48,"Morning, Night","Day, Night",Evening,"Morning, Evening","Day, Night",Evening,"Morning, Evening"
+53,Liam Allen,Cashier,36,Day,"Morning, Night",Evening,Evening,Day,"Morning, Night",Evening
+54,Mona Perez,Supervisor,44,"Day, Night",Evening,"Day, Night",Evening,"Morning, Night",Evening,"Morning, Night"
+55,Nathan Young,Inventory Manager,36,"Morning, Night",Day,"Morning, Evening",Day,"Morning, Evening",Morning,Leave
+56,Olivia Foster,Customer Help,40,"Day, Night",Evening,"Morning, Night","Day, Night",Evening,"Morning, Night",Leave
+57,Paul Carter,Inventory Manager,36,"Day, Night",Evening,"Morning, Evening",Day,"Morning, Evening",Day,Leave
+58,Quincy Adams,Cashier,36,Day,"Morning, Night",Night,Evening,Day,"Morning, Night",Evening
+59,Ryan Brooks,Cleaning Staff,44,"Day, Night",Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Day
+60,Sophia Turner,Supervisor,44,"Day, Night",Evening,"Day, Night",Evening,"Day, Night",Evening,"Morning, Night"
+61,Travis King,Manager,48,"Day, Night",Day,"Morning, Evening","Morning, Night","Day, Night",Evening,"Morning, Evening"
+62,Uma Watson,Customer Help,40,"Day, Night",Evening,"Morning, Night","Day, Night",Evening,"Morning, Night",Leave
+63,Vincent Harris,Inventory Manager,36,"Day, Night",Evening,"Morning, Night",Day,"Morning, Evening",Day,Leave
+64,Wendy Lopez,Cashier,36,Day,"Morning, Night",Night,Evening,Day,"Morning, Night",Evening
+65,Xavier Evans,Cleaning Staff,44,"Day, Night",Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening
+66,Yvonne Green,Supervisor,44,Day,"Morning, Evening","Day, Night",Evening,"Day, Night",Evening,"Day, Night"
+67,Zachary Nelson,Manager,48,"Day, Night",Day,"Morning, Evening","Day, Night",Day,"Morning, Evening","Morning, Night"
+68,Adam Wright,Customer Help,40,"Day, Night",Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Leave
+69,Bethany Hall,Inventory Manager,36,"Day, Night",Evening,"Morning, Night",Day,"Morning, Evening",Day,Leave
+70,Charles Mitchell,Cashier,36,Day,Morning,"Morning, Night",Evening,Day,"Morning, Night",Night
+71,Debra Stewart,Cleaning Staff,44,"Day, Night",Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening
+72,Ethan Parker,Supervisor,44,Day,"Morning, Evening",Day,"Morning, Evening","Day, Night",Evening,"Day, Night"
+73,Felicity Adams,Manager,48,"Day, Night",Evening,"Morning, Evening","Day, Night",Day,"Morning, Evening","Day, Night"
+74,George Bailey,Customer Help,40,"Day, Night",Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Leave
+75,Holly Roberts,Inventory Manager,36,Day,"Morning, Evening","Morning, Night",Day,"Morning, Evening",Day,Leave
+76,Ian Walker,Cashier,36,Evening,Day,"Morning, Night",Evening,Day,"Morning, Night",Night
+77,Jasmine Cooper,Cleaning Staff,44,Day,"Morning, Evening","Day, Night",Day,"Morning, Evening","Day, Night",Evening
+78,Kyle Thomas,Supervisor,44,Day,"Morning, Evening",Day,"Morning, Evening",Day,"Morning, Evening","Day, Night"
+79,Laura Phillips,Manager,48,"Day, Night",Evening,"Morning, Evening","Day, Night",Evening,"Morning, Evening","Day, Night"
+80,Mike Russell,Customer Help,40,Day,"Morning, Evening","Day, Night",Evening,"Morning, Evening","Day, Night",Leave
+81,Nancy Scott,Inventory Manager,36,Day,"Morning, Evening","Day, Night",Evening,"Morning, Evening",Day,Leave
+82,Oscar Reed,Cashier,36,Evening,Day,"Morning, Night",Evening,Day,Morning,"Morning, Night"
+83,Paula Jenkins,Cleaning Staff,44,Day,"Morning, Evening","Day, Night",Evening,"Morning, Night","Day, Night",Evening
+84,Quinn Simmons,Supervisor,40,Day,"Morning, Night",Day,"Morning, Evening",Day,"Morning, Evening",Day
+85,Rachel Murphy,Manager,48,"Day, Night",Evening,"Morning, Evening","Day, Night",Evening,"Morning, Evening","Day, Night"
+86,Steve Bennett,Customer Help,40,Day,"Morning, Evening","Day, Night",Evening,"Morning, Night","Day, Night",Leave
+87,Tracy Wood,Inventory Manager,36,Day,"Morning, Evening","Day, Night",Evening,"Morning, Night",Day,Leave
+88,Ulysses Foster,Cashier,36,Evening,Day,"Morning, Night",Evening,Evening,Day,"Morning, Night"
+89,Victoria Nelson,Cleaning Staff,44,Day,"Morning, Evening","Day, Night",Evening,"Morning, Night",Day,"Morning, Evening"
+90,Walter Carter,Supervisor,40,Day,"Morning, Night",Day,"Morning, Night",Day,"Morning, Evening",Day
+91,Xander Hayes,Manager,48,Day,"Morning, Evening","Morning, Night","Day, Night",Evening,"Morning, Evening","Day, Night"
+92,Yasmine Torres,Customer Help,40,Evening,"Morning, Evening","Day, Night",Evening,"Morning, Night","Day, Night",Leave
+93,Zane Patterson,Inventory Manager,36,Day,"Morning, Evening","Day, Night",Evening,"Morning, Night",Day,Leave
+94,Abigail Morgan,Cashier,36,Evening,Day,"Morning, Night",Night,Evening,Day,"Morning, Night"
+95,Benjamin Hughes,Cleaning Staff,44,Day,"Morning, Evening","Day, Night",Evening,"Morning, Night",Day,"Morning, Evening"
+96,Charlotte Wright,Supervisor,40,Evening,"Morning, Night",Day,"Morning, Night",Day,"Morning, Night",Day
+97,Daniel Brooks,Manager,48,Day,"Morning, Evening","Day, Night",Day,"Morning, Evening","Morning, Night","Day, Night"
+98,Eleanor Fisher,Customer Help,40,Evening,"Morning, Night","Day, Night",Evening,"Morning, Night",Day,Morning
+99,Felix Richardson,Inventory Manager,36,Day,"Morning, Evening",Day,"Morning, Evening","Morning, Night",Day,Leave
+100,Giselle Howard,Cashier,36,Evening,Day,"Morning, Night",Night,Evening,Day,"Morning, Night"
+101,Henry Coleman,Cleaning Staff,44,Evening,"Morning, Night","Day, Night",Evening,"Morning, Night",Day,"Morning, Evening"
+102,Isla Ward,Supervisor,40,Evening,"Morning, Night",Evening,"Morning, Night",Day,"Morning, Night",Day
+103,Jack Foster,Manager,44,Evening,"Morning, Evening","Day, Night",Day,"Morning, Evening","Day, Night",Day
+104,Karen Hughes,Customer Help,40,Evening,"Morning, Night","Day, Night",Evening,"Morning, Night",Day,Morning
+105,Leo Morris,Inventory Manager,36,Evening,"Morning, Evening",Day,"Morning, Evening","Day, Night",Evening,Leave
+106,Mia Bennett,Cashier,36,Evening,Day,Morning,"Morning, Night",Evening,Day,"Morning, Night"
+107,Noah Carter,Cleaning Staff,44,Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Day,"Morning, Evening"
+108,Olive Nelson,Supervisor,40,Evening,"Morning, Night",Evening,"Morning, Night",Evening,"Morning, Night",Day
+109,Patrick Evans,Manager,44,Evening,"Morning, Evening","Day, Night",Evening,"Morning, Evening","Day, Night",Day
+110,Quinn Brooks,Customer Help,40,Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,Morning
+111,Rebecca Scott,Inventory Manager,36,Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,Leave
+112,Samuel Harris,Cashier,36,Evening,Evening,Day,"Morning, Night",Evening,Day,"Morning, Night"
+113,Tina Mitchell,Cleaning Staff,44,Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,"Morning, Night"
+114,Umar White,Supervisor,40,Evening,"Morning, Night",Evening,"Morning, Night",Evening,"Morning, Night",Evening
+115,Violet Reed,Manager,44,Evening,"Morning, Evening","Day, Night",Evening,"Morning, Evening","Day, Night",Evening
+116,Walter Adams,Customer Help,40,Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,Morning
+117,Xena Lewis,Inventory Manager,36,Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,Leave
+118,Yusuf Green,Cashier,32,Night,Evening,Day,"Morning, Night",Evening,Day,Morning
+119,Zara Hill,Cleaning Staff,44,Evening,"Morning, Night",Day,"Morning, Evening","Day, Night",Evening,"Morning, Night"
+120,Adam Parker,Supervisor,40,Evening,"Day, Night",Evening,"Morning, Night",Evening,"Morning, Night",Evening
+201,rabi aryal,Supervisor,40,Evening,"Day, Night",Evening,"Day, Night",Evening,"Morning, Night",Evening
+300,XYZ,Cashier,32,Night,Evening,Day,"Morning, Night",Evening,Evening,Day
