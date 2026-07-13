@@ -3,7 +3,7 @@
 A full-stack workforce scheduling platform that automates employee shift allocation based on workload, working-hour constraints, employee priority, and designation. The system eliminates manual scheduling by generating optimized shift assignments while providing employee management, shift swapping, Excel export, and email notifications.
 
 ---
-#### View the details at the fina_report.pdf
+#### View the details at the final_report.pdf
 
 ## 📸 Project Screenshots
 
