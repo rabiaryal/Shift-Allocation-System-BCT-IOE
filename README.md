@@ -7,38 +7,28 @@ A full-stack workforce scheduling platform that automates employee shift allocat
 
 ## 📸 Project Screenshots
 
-### Dashboard
-> Add Screenshot 1 here
-
-
-
-![Dashboard](images/dashboard.png)
-
----
-
 ### Employee Management
-> Add Screenshot 2 here
 
-![Employee Management](images/emplyee_records.png)
+
+![Employee Management](images/employee_records.png)
 
 ---
 
 ### Shift Generation
-> Add Screenshot 3 here
 
-![Shift Generation](images/employee_shiftsç.png)
+
+![Shift Generation](images/employee_shifts.png)
 
 ---
 
 ### Generated Schedule
-> Add Screenshot 4 here
+
 
 ![Schedule](images/employee_config.png)
 
 ---
 
 ### Shift Swap
-> Add Screenshot 5 here
 
 ![Swap Shift](images/shift_exchange.png)
 
